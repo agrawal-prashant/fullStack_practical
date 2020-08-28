@@ -45,7 +45,12 @@ h3 {
     color:#ccc;
     text-decoration: none;
     display:block;
+    width: fit-content;
     line-height: 24px;
+    margin:0 auto;
+}
+.links a:hover {
+    color:#eee;
 }
 .register {
     border-bottom: 2px solid rgba(29, 29, 49, 0.2);
