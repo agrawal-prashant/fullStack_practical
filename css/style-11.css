@@ -9,7 +9,7 @@ th,td {
     border-bottom:1px solid #aaa;
 }
 table {
-    margin:0 auto;
+    margin:0 auto 8px;
     border:2px solid #2f2f2f;
     border-collapse: collapse;
     width:90%;
