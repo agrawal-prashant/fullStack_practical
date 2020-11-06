@@ -31,3 +31,30 @@ h3 {
 h4 {
     text-transform: capitalize; 
 }
+@media(max-width:860px){
+    h1 {
+        font-size: 6rem;
+    } 
+}
+@media(max-width:580px){
+    h1 {
+        font-size: 4rem;
+    }
+    h2 {
+        font-size: 2rem;
+    }
+    h3 {
+        font-size: 1rem;
+    }
+}
+@media(max-width:415px){
+    h1 {
+        font-size: 3rem;
+    }
+    h2 {
+        font-size: 1.75rem;
+    }
+    h3 {
+        font-size: 1rem;
+    }
+}
